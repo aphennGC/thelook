@@ -1,4 +1,4 @@
-connection: "thelook"
+connection: "mock_trial_thelook"
 
 # include all the views
 include: "*.view"
